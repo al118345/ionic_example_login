@@ -19,7 +19,7 @@ export class HomePage {
     this.showLoading();
     this.auth.login(this.registerCredentials).subscribe(allowed => {
           if (allowed) {
-            this.router.navigateByUrl('/test');
+            this.router.navigate(['test']);
           } else {
             this.showError("Access Denied");
           }
