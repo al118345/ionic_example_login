@@ -1,12 +1,15 @@
 # Ionic Framework
-Proyecto ejemplo de login para la web https://1938.com.es/
+Proyecto muy básico de login Ionic 5 para la web https://1938.com.es/. 
+
+El objetivo de esta aplicación es actualizar la versión Ionic 3 del proyecto https://github.com/al118345/IONIC-3-example-APP. Para conocer el procedimiento aplicado visita la web  https://1938.com.es/diseno-front-end-3.
+
 
 ### Info
 
 [Ionic Framework](https://ionicframework.com/) is the open-source mobile app development framework that makes it easy to
 build top quality native and progressive web apps with web technologies.
 
-Ionic Framework is based on [Web Components](https://www.webcomponents.org/introduction) and comes with many significant performance, usability, and feature improvements over the past versions.
+Ionic Framework is based on [Web Components](https://www.webcomponents.org/introduction) and comes with many significant performance, usability, and feature improvements over the past versions. 
 
 
 ### Packages
